@@ -1,4 +1,5 @@
-import '../css/homepage.css'
+// import '../css/homepage.css'
+import '../less/index.less'
 
 const header = document.createElement('div');
 header.setAttribute('class', 'header');
